@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://sxhoe5goewl7"
+path="res://.godot/imported/20 - Good Time.ogg-d0eab0fad0d617e11d5877d7eb3eab5b.oggvorbisstr"
+
+[deps]
+
+source_file="res://GAME ASSETS/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Audio/Musics/20 - Good Time.ogg"
+dest_files=["res://.godot/imported/20 - Good Time.ogg-d0eab0fad0d617e11d5877d7eb3eab5b.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

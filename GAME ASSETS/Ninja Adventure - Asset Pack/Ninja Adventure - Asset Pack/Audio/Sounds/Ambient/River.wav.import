@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://c1ejyc63v1aiy"
+path="res://.godot/imported/River.wav-f2366d0837602cf5dacafa9e1ad64e1a.sample"
+
+[deps]
+
+source_file="res://GAME ASSETS/Ninja Adventure - Asset Pack/Ninja Adventure - Asset Pack/Audio/Sounds/Ambient/River.wav"
+dest_files=["res://.godot/imported/River.wav-f2366d0837602cf5dacafa9e1ad64e1a.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

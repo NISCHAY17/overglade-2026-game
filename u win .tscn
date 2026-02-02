@@ -1,0 +1,16 @@
+[gd_scene load_steps=2 format=3 uid="uid://dd1h7r51nlsch"]
+
+[ext_resource type="FontFile" uid="uid://bbjw8jtmmgmcm" path="res://GAME ASSETS/FONTS/bilgen/BilgenDemo-Black.otf" id="1_hb56b"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Camera2D" type="Camera2D" parent="."]
+
+[node name="Label" type="Label" parent="Camera2D"]
+offset_left = -80.0
+offset_top = -97.0
+offset_right = 85.0
+offset_bottom = 36.0
+theme_override_fonts/font = ExtResource("1_hb56b")
+theme_override_font_sizes/font_size = 64
+text = "u win "
